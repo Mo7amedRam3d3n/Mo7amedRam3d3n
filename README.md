@@ -111,7 +111,7 @@ Zagazig University | 2022 – 2026
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Mo7amedRam3d3n">
+  <a href="https://github.com/Mo7amedRam3d3n" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mo7amed-ram3d3n/">
