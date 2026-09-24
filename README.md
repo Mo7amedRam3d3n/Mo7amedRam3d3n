@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Mohamed Ramadan
 
-### 📊 Data Analyst | Power BI | Excel | Data Visualization
+### 📊 Data Analyst | Power BI | Excel | Data Visualization | Business Analyst | Business Intelligence
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Interactive+Dashboards+%F0%9F%93%88;Making+Data+Easy+to+Understand+%F0%9F%9A%80" alt="Typing SVG" />
