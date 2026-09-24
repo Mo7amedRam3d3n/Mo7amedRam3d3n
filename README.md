@@ -34,7 +34,7 @@
 ## ⭐ Featured Projects
 
 ### 🍕 Pizza Sales Analysis
-**Tools:** Excel | Pivot Tables | Power Pivot | Power Query | DAX | Data Visualization
+**Tools:** Excel | Pivot Tables | Power Pivot | Power Query | Data Visualization
 
 📌 Analyzed pizza sales data to identify:
 - Total Revenue & Orders
@@ -55,7 +55,7 @@
 ---
 
 ### 📈 Sales Performance Dashboard
-**Tools:** Excel | Pivot Tables | Power Pivot | Power Query | DAX | Data Visualization
+**Tools:** Excel | Pivot Tables | Power Pivot | Power Query | Data Visualization
 
 📌 Built an interactive dashboard to analyze:
 - Total Sales
@@ -71,6 +71,35 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Dashboard/main/Dashboard.png" width="850"/>
 </p>
+
+---
+### 📈 Sales Performance & Profitability Analysis
+
+**Tools:** Power BI | Power Query | DAX | Data Modeling | Data Visualization
+
+📌 Built an interactive dashboard to analyze:
+- Sales & Profit Performance
+- Regional & Manager Performance
+- Product & Category Performance
+- Customer Segment Performance
+- Shipping Performance
+- Monthly Sales & Profit Trends
+- Key Performance Indicators (KPIs)
+- 
+**🔗 Repo:** [Sales Performance & Profitability](https://github.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis)
+
+**📊 Dashboard Preview**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard/main/Over View.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard/main/Regions & Managers.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard/main/Products.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard/main/Customers & Shipping.png" width="850"/>
+
+
+
+</p>
+
+---
 
 ---
 
