@@ -90,7 +90,10 @@
 
 **📊 Dashboard Preview**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard/main/Over View.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Over View.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Regions & Managers.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Products.png" width="850"/>
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Customers & Shipping.png" width="850"/>
 </p>
 
 ---
