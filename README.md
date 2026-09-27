@@ -36,15 +36,6 @@
 ### 🍕 Pizza Sales Analysis
 **Tools:** Excel | Pivot Tables | Power Pivot | Power Query | Data Visualization
 
-📌 Analyzed pizza sales data to identify:
-- Total Revenue & Orders
-- Sales by Category
-- Sales by Pizza Size
-- Best & Worst-Selling Products
-- Sales by Day & Hour
-- Revenue Trends
-- Key Business Insights
-
 **🔗 Repo:** [Pizza-Sales-Dashboard](https://github.com/Mo7amedRam3d3n/Pizza-Sales-Dashboard)
 
 **📊 Dashboard Preview**
@@ -56,14 +47,6 @@
 
 ### 📈 Sales Performance Dashboard
 **Tools:** Excel | Pivot Tables | Power Pivot | Power Query | Data Visualization
-
-📌 Built an interactive dashboard to analyze:
-- Total Sales
-- Sales Performance
-- Category Performance
-- Product Performance
-- Monthly & Yearly Trends
-- Key Performance Indicators (KPIs)
 
 **🔗 Repo:** [Sales-Performance-Dashboard](https://github.com/Mo7amedRam3d3n/Sales-Performance-Dashboard)
 
@@ -77,15 +60,6 @@
 
 **Tools:** Power BI | Power Query | DAX | Data Modeling | Data Visualization
 
-📌 Built an interactive dashboard to analyze:
-- Sales & Profit Performance
-- Regional & Manager Performance
-- Product & Category Performance
-- Customer Segment Performance
-- Shipping Performance
-- Monthly Sales & Profit Trends
-- Key Performance Indicators (KPIs)
-- 
 **🔗 Repo:** [Sales Performance & Profitability](https://github.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis)
 
 **📊 Dashboard Preview**
@@ -95,7 +69,18 @@
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Products.png" width="850"/>
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Customers & Shipping.png" width="850"/>
 </p>
+<p>
+  ### 📈 Employee-Attrition-Analysis-Dashboard
 
+**Tools:** Power BI | Power Query | DAX | Data Visualization
+
+**🔗 Repo:** [Employee-Attrition-Analysis-Dashboard](https://github.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard)
+
+**📊 Dashboard Preview**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard/blob/main/Dashboard.png" width="850"/>
+
+</p>
 ---
 
 ---
