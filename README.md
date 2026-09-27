@@ -78,7 +78,7 @@
 
 **📊 Dashboard Preview**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard/blob/main/Dashboard.png" width="850"/>
+ <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard/main/Dashboard.png" width="850"/>
 
 </p>
 ---
