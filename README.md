@@ -129,7 +129,7 @@ Zagazig University | 2022 – 2026
   <a href="https://www.linkedin.com/in/mo7amed-ram3d3n/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:Mo7amed.Ram3d3n@gmail.com">
+  <a href="mailto:Muhammed.Ramadan.Abbaas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
