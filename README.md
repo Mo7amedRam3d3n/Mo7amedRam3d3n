@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DAX-4479A1?style=for-the-badge&logo=DAX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-2F80ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-9B51E0?style=for-the-badge"/>
 </p>
