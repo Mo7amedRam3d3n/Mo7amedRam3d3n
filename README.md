@@ -70,7 +70,8 @@
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Customers & Shipping.png" width="850"/>
 </p>
 ---
-<p>
+
+
 ### 📈 Employee-Attrition-Analysis-Dashboard
 
 **Tools:** Power BI | Power Query | DAX | Data Visualization
@@ -80,10 +81,9 @@
 **📊 Dashboard Preview**
 <p align="center">
  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard/main/Dashboard.png" width="850"/>
-
 </p>
 ---
-<p>
+
 ### 🌤️ Madrid Weather Dashboard (1997 - 2015)
 
 **Tools:** Power BI | Power Query | DAX | Data Visualization
@@ -93,7 +93,6 @@
 **📊 Dashboard Preview**
 <p align="center">
  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Madrid-Daily-Weather-1997-2015/main/Dashboard.png" width="850"/>
-
 </p>
 ---
 
