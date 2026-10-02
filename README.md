@@ -71,7 +71,7 @@
 </p>
 ---
 <p>
-  ### 📈 Employee-Attrition-Analysis-Dashboard
+### 📈 Employee-Attrition-Analysis-Dashboard
 
 **Tools:** Power BI | Power Query | DAX | Data Visualization
 
@@ -84,7 +84,7 @@
 </p>
 ---
 <p>
-  ### 🌤️ Madrid Weather Dashboard (1997 - 2015)
+### 🌤️ Madrid Weather Dashboard (1997 - 2015)
 
 **Tools:** Power BI | Power Query | DAX | Data Visualization
 
