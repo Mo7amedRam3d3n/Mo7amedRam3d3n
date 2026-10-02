@@ -72,7 +72,7 @@
 ---
 
 
-### 📈 Employee-Attrition-Analysis-Dashboard
+###  👨‍💼  Employee-Attrition-Analysis-Dashboard
 
 **Tools:** Power BI | Power Query | DAX | Data Visualization
 
