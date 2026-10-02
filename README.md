@@ -69,8 +69,8 @@
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Products.png" width="850"/>
   <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Sales-Performance-Profitability-Analysis/main/Customers & Shipping.png" width="850"/>
 </p>
----
 
+---
 
 ###  👨‍💼  Employee-Attrition-Analysis-Dashboard
 
@@ -82,6 +82,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Employee-Attrition-Analysis-Dashboard/main/Dashboard.png" width="850"/>
 </p>
+
 ---
 
 ### 🌤️ Madrid Weather Dashboard (1997 - 2015)
@@ -94,6 +95,7 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Madrid-Daily-Weather-1997-2015/main/Dashboard.png" width="850"/>
 </p>
+
 ---
 
 ## 📊 My Workflow
