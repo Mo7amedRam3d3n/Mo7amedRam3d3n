@@ -98,6 +98,19 @@
 
 ---
 
+### 🛒 Superstore Sales 
+
+**Tools:** Power BI | Power Query | DAX | Data Visualization
+
+**🔗 Repo:** [Superstore Sales](https://github.com/Mo7amedRam3d3n/Superstore-Sales)
+
+**📊 Dashboard Preview**
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Mo7amedRam3d3n/Superstore-Sales/main/Dashboard.png" width="850"/>
+</p>
+
+---
+
 ## 📊 My Workflow
 
 ```text
